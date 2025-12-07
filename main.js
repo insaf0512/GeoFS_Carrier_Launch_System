@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name        GeoFS Carrier Cats V2
-// @description This one works
+// @name        GeoFS Carrier Launch System
+// @description Adds functional and tweakable catapults to the carrier in GeoFS.
 // @match        https://www.geo-fs.com/geofs.php?v=*
 // @match        https://*.geo-fs.com/geofs.php*
 // ==/UserScript==
