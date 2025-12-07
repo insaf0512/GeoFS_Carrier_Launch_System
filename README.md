@@ -73,6 +73,6 @@ F-16 Fighting Falcon *(7)*
 
 **Aircraft codes in *(brackets)***
 
-# Suggestions:
+# Suggestions or support:
 
-Simply
+Simply add an `issue` and I will try to help.
