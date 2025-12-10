@@ -68,6 +68,7 @@ Grumman JF2-5 Duck *(2786)*
 Chance Vought F4U-1D Corsair *(4251)*
 
 Lockheed Martin F-35B Lightning II *(5229)*
+*note: the F35B has no tail hook so it can't land on the carrier*
 
 F-16 Fighting Falcon *(7)*
 
